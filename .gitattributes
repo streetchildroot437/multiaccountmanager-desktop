@@ -1,0 +1,5 @@
+# Language detection rules
+src/**/*.js linguist-detectable
+public/index.html linguist-vendored
+go.sum linguist-generated
+*.min.css linguist-generated
