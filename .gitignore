@@ -1,0 +1,7 @@
+yarn-error.log*
+npm-debug.log*
+build/
+.pnpm-store/
+.env.local
+.env
+_site/
